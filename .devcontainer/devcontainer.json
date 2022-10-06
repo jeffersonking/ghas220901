@@ -1,0 +1,9 @@
+{
+  "name": "test-repo",
+  "image": "ghcr.io/nickliffen/csenv:main",
+  "settings": {},
+  "extensions": [
+    "vscode-icons-team.vscode-icons",
+    "MS-SarifVSCode.sarif-viewer"
+  ]
+}
